@@ -57,6 +57,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Zoom Out">
+        <Item>
+          <IdeaActionID>UML.ZoomOut</IdeaActionID>
+          <ShortCut>'⌘-' or '⌘-'</ShortCut>
+          <Description>Zoom Out</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
     </option>
   </component>
 </application>
