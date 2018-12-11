@@ -17,6 +17,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Commit...">
+        <Item>
+          <IdeaActionID>CheckinProject</IdeaActionID>
+          <ShortCut>'⌘K'</ShortCut>
+          <Description>Commit...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'MeetingControllerV2Test.queryMeetingWithOutParam'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'MeetingControllerV2Test.queryMeetingWithOutParam'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
@@ -57,11 +73,27 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Resume Program">
+        <Item>
+          <IdeaActionID>Resume</IdeaActionID>
+          <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
+          <Description>Resume Program</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Revert...">
         <Item>
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MeetingControllerV2Test.queryMeetingWithInvialidStatus'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'MeetingControllerV2Test.queryMeetingWithInvialidStatus'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -86,7 +118,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -102,7 +134,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Vim Emulator">
