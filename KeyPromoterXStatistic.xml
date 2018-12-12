@@ -38,7 +38,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'ApplicationTestRunner'</Description>
-          <Count>20</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'MeetingControllerV2Test'">
@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>146</Count>
+          <Count>147</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -126,7 +126,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>144</Count>
+          <Count>146</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
