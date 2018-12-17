@@ -54,7 +54,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'ApplicationTestRunner'</Description>
-          <Count>65</Count>
+          <Count>66</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'MeetingControllerV2Test'">
@@ -254,7 +254,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ApplicationTestRunner'</Description>
-          <Count>48</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MeetingControllerV2Test'">
