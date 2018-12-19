@@ -81,6 +81,14 @@
           <Count>17</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'CycMeetingControllerV2Test.testNormalCreateCyc'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'CycMeetingControllerV2Test.testNormalCreateCyc'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'MeetingControllerV2Test'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -158,7 +166,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>376</Count>
+          <Count>379</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -238,7 +246,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>237</Count>
+          <Count>238</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -279,6 +287,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'CycMeetingControllerV2Test.createCycMeetWithErrorParm'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CycMeetingControllerV2Test.testNormalCreateCyc'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'CycMeetingControllerV2Test.testNormalCreateCyc'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'EmailUtils'">
@@ -407,6 +423,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'CycMeetingControllerV2Test.createCycMeet'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CycMeetingControllerV2Test.testNormalCreateCyc'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CycMeetingControllerV2Test.testNormalCreateCyc'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MeetingControllerV2Test'">
