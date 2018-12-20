@@ -14,7 +14,7 @@
           <IdeaActionID>ChangeSignature</IdeaActionID>
           <ShortCut>'⌘F6'</ShortCut>
           <Description>Change Signature...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -198,7 +198,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>428</Count>
+          <Count>431</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -319,6 +319,22 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'CycMeetingControllerV2Test.createCycMeetWithErrorParm'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CycMeetingControllerV2Test.testCycDetail'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'CycMeetingControllerV2Test.testCycDetail'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CycMeetingControllerV2Test.testGetSubMeet'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'CycMeetingControllerV2Test.testGetSubMeet'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CycMeetingControllerV2Test.testNormalCreateCyc'">
@@ -590,7 +606,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>98</Count>
+          <Count>99</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
