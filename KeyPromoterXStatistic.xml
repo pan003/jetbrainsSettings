@@ -209,12 +209,28 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'TodoControllerTest.testUpdateMeetingTodo'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'TodoControllerTest.testUpdateMeetingTodo'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'TodoControllerTest.testUpdateMeetingTodoWithError'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'TodoControllerTest.testUpdateMeetingTodoWithError'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>457</Count>
+          <Count>464</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -294,7 +310,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>252</Count>
+          <Count>255</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -505,6 +521,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'TodoControllerTest.testUpdateMeetingTodo'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'TodoControllerTest.testUpdateMeetingTodo'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'TodoControllerTest.testUpdateMeetingTodoWithError'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'TodoControllerTest.testUpdateMeetingTodoWithError'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Diagram...">
         <Item>
           <IdeaActionID>ShowUmlDiagram</IdeaActionID>
@@ -641,6 +673,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'TodoControllerTest.testUpdateMeetingTodoWithError'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'TodoControllerTest.testUpdateMeetingTodoWithError'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Structure">
         <Item>
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
@@ -670,7 +710,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>109</Count>
+          <Count>111</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
