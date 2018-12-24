@@ -97,6 +97,14 @@
           <Count>17</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'CycMeetingControllerV2Test.testCreateMeet'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'CycMeetingControllerV2Test.testCreateMeet'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'CycMeetingControllerV2Test.testCycDetail'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -369,6 +377,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'CycMeetingControllerV2Test.testCreateMeet'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'CycMeetingControllerV2Test.testCreateMeet'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'CycMeetingControllerV2Test.testCycDetail'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -617,6 +633,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'CycMeetingControllerV2Test.testCreateMeet'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CycMeetingControllerV2Test.testCreateMeet'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'CycMeetingControllerV2Test.testCycDetail'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -758,7 +782,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>129</Count>
+          <Count>130</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
