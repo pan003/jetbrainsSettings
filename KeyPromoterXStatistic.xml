@@ -617,6 +617,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'SpaceControllerTest.testRename'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'SpaceControllerTest.testRename'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'SpaceControllerTest.testUserSpace'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
