@@ -225,6 +225,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'SpaceControllerTest.testDirList'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'SpaceControllerTest.testDirList'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'SpaceControllerTest.testModifyMember'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -262,7 +270,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>655</Count>
+          <Count>665</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -286,7 +294,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -334,7 +342,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -350,7 +358,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>289</Count>
+          <Count>296</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -593,6 +601,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'SpaceControllerTest.testDirList'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'SpaceControllerTest.testDirList'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'SpaceControllerTest.testModifyMember'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -825,6 +841,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'SpaceControllerTest.testDirList'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'SpaceControllerTest.testDirList'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'SpaceControllerTest.testModifyMember'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -870,7 +894,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>138</Count>
+          <Count>144</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
