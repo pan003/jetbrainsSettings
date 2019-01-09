@@ -70,7 +70,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ApplicationTestRunner'">
@@ -143,6 +143,14 @@
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'CycMeetingControllerV2Test.testNormalCreateCyc'</Description>
           <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'CycMeetingControllerV2Test.testQueryCyc'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'CycMeetingControllerV2Test.testQueryCyc'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'CycMeetingControllerV2Test.testUpdateCyc'">
@@ -302,7 +310,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>891</Count>
+          <Count>894</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -398,7 +406,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>324</Count>
+          <Count>325</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -518,7 +526,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'CycMeetingControllerV2Test.testQueryCyc'</Description>
-          <Count>11</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CycMeetingControllerV2Test.testUpdateCyc'">
@@ -881,6 +889,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'CycMeetingControllerV2Test.testQueryCyc'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CycMeetingControllerV2Test.testQueryCyc'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'CycMeetingControllerV2Test.testUpdateCyc'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1078,7 +1094,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>46</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
