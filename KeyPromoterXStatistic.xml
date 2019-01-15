@@ -318,7 +318,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>932</Count>
+          <Count>935</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -703,6 +703,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'MeetingV2Test.testNoneParamUpdateMeeting'</Description>
           <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MeetingV2Test.testQueryDetail'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'MeetingV2Test.testQueryDetail'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SpaceControllerTest.testAddMember'">
