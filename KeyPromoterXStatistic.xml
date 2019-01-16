@@ -78,7 +78,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'ApplicationTestRunner'</Description>
-          <Count>111</Count>
+          <Count>112</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'BosUtilsTest.initBos'">
@@ -318,7 +318,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>949</Count>
+          <Count>952</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -422,7 +422,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>412</Count>
+          <Count>414</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -446,7 +446,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'ApplicationTestRunner'</Description>
-          <Count>14</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BosUtilsTest.initBos'">
