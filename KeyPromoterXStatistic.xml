@@ -745,6 +745,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'MeetingV2Test.testQueryMeeting'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'MeetingV2Test.testQueryMeeting'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'SpaceControllerTest.testAddMember'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
