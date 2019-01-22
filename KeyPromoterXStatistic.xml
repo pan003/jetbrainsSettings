@@ -313,6 +313,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'UICServiceImpl'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'UICServiceImpl'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'UICTest.testUserInfo'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -342,7 +350,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1002</Count>
+          <Count>1004</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -454,7 +462,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>426</Count>
+          <Count>428</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1121,6 +1129,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'UICServiceImpl'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'UICServiceImpl'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'UICTest.testUserInfo'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1182,7 +1198,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>204</Count>
+          <Count>208</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
