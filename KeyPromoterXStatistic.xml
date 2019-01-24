@@ -297,6 +297,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'TemporaryControllerTest.deleteTemp'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'TemporaryControllerTest.deleteTemp'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'TodoControllerTest.testSaveTodo'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -478,7 +486,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>477</Count>
+          <Count>478</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -831,6 +839,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'SpaceControllerTest.testUserSpace'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'TemporaryControllerTest.deleteTemp'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'TemporaryControllerTest.deleteTemp'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'TodoControllerTest.testGetMeetingTodo'">
@@ -1230,7 +1246,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>238</Count>
+          <Count>239</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
