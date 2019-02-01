@@ -385,12 +385,20 @@
           <Count>34</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'UserControllerTest.testUserWithSpace'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'UserControllerTest.testUserWithSpace'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'dev'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'dev'</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -398,7 +406,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1128</Count>
+          <Count>1130</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -510,7 +518,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>525</Count>
+          <Count>527</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1265,12 +1273,20 @@
           <Count>15</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'UserControllerTest.testUserWithSpace'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'UserControllerTest.testUserWithSpace'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'dev'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'dev'</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -1294,7 +1310,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>115</Count>
+          <Count>116</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1302,7 +1318,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>263</Count>
+          <Count>265</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
