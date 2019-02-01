@@ -406,7 +406,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1130</Count>
+          <Count>1137</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -817,6 +817,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'MyFirstCustomCheckTest.test'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'MyFirstCustomCheckTest.test'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'SpaceControllerTest.testAddMember'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -959,6 +967,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'UserControllerTest.testUserQuery'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Dependencies...">
+        <Item>
+          <IdeaActionID>ShowUmlDiagram</IdeaActionID>
+          <ShortCut>'⌥⇧⌘U'</ShortCut>
+          <Description>Show Dependencies...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diagram...">
@@ -1310,7 +1326,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>116</Count>
+          <Count>119</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
