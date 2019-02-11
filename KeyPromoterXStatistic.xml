@@ -185,6 +185,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'ExceptionNameCheckTest.test'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'ExceptionNameCheckTest.test'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'FeeControllerTest.searchMeet'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -590,7 +598,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>652</Count>
+          <Count>655</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -767,6 +775,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'EmailUtils'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ExceptionNameCheckTest.test'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'ExceptionNameCheckTest.test'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FeeControllerTest.searchMeet'">
@@ -1217,6 +1233,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ExceptionNameCheckTest.test'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ExceptionNameCheckTest.test'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'FeeControllerTest.readMeeting'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1494,7 +1518,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>310</Count>
+          <Count>313</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
