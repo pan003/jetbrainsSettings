@@ -313,6 +313,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Sl4jCheckTest.test'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'Sl4jCheckTest.test'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'SpaceControllerTest.testAddMember'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -582,7 +590,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>619</Count>
+          <Count>633</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1329,6 +1337,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Sl4jCheckTest.test'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Sl4jCheckTest.test'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'SpaceControllerTest.testAddMember'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1478,7 +1494,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>301</Count>
+          <Count>304</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
