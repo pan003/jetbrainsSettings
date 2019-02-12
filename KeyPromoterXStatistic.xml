@@ -510,7 +510,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1198</Count>
+          <Count>1199</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -998,7 +998,15 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'NoPrintStackTraceCheckTest.test'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'NoSystemOutCheckTest.test'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'NoSystemOutCheckTest.test'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Slf4jCheckTest.test'">
@@ -1431,6 +1439,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'NoPrintStackTraceCheckTest.test'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'NoSystemOutCheckTest.test'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'NoSystemOutCheckTest.test'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Sl4jCheckTest.test'">
