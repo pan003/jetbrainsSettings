@@ -337,6 +337,14 @@
           <Count>15</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'NoSystemOutCheckTest.test'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'NoSystemOutCheckTest.test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Sl4jCheckTest.test'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -502,7 +510,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1197</Count>
+          <Count>1198</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1590,7 +1598,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>324</Count>
+          <Count>325</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
