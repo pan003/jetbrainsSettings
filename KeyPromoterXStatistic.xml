@@ -94,7 +94,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'ApplicationTestRunner'</Description>
-          <Count>218</Count>
+          <Count>220</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AvoidBrandInMethodNamesCheckTest.detected'">
@@ -566,7 +566,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1535</Count>
+          <Count>1538</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
