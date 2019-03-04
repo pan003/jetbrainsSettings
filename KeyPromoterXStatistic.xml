@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -94,7 +94,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'ApplicationTestRunner'</Description>
-          <Count>272</Count>
+          <Count>279</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AvoidBrandInMethodNamesCheckTest.detected'">
@@ -702,7 +702,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>916</Count>
+          <Count>945</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1358,7 +1358,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ApplicationTestRunner'</Description>
-          <Count>290</Count>
+          <Count>297</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BosUtilsTest.initBos'">
@@ -1790,7 +1790,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>232</Count>
+          <Count>233</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1798,7 +1798,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>496</Count>
+          <Count>504</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -1830,7 +1830,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>141</Count>
+          <Count>142</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
