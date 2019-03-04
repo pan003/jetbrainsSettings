@@ -2,7 +2,6 @@
   <component name="MaterialThemeConfig">
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
-    <option name="darkTitleBar" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
@@ -14,6 +13,6 @@
     <option name="accentColor" value="42a5f5" />
     <option name="selectedTheme" value="ARC_DARK" />
     <option name="userId" value="38d81a59:1674e081699:-8000" />
-    <option name="version" value="3.0.0-rc4" />
+    <option name="version" value="3.5.0.1" />
   </component>
 </application>
