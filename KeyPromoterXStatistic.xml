@@ -41,6 +41,14 @@
           <Count>25</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Compare Files">
+        <Item>
+          <IdeaActionID>CompareTwoFiles</IdeaActionID>
+          <ShortCut>'⌘D'</ShortCut>
+          <Description>Compare Files</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy">
         <Item>
           <IdeaActionID>$Copy</IdeaActionID>
@@ -94,7 +102,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'ApplicationTestRunner'</Description>
-          <Count>312</Count>
+          <Count>313</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AvoidBrandInMethodNamesCheckTest.detected'">
@@ -1366,7 +1374,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ApplicationTestRunner'</Description>
-          <Count>325</Count>
+          <Count>326</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BosUtilsTest.initBos'">
