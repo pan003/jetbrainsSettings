@@ -574,7 +574,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1723</Count>
+          <Count>1726</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -718,7 +718,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1060</Count>
+          <Count>1062</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
