@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>31</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -534,7 +534,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'Unnamed'</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'UserControllerTest.testUserPromote'">
@@ -574,7 +574,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1782</Count>
+          <Count>1784</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -718,7 +718,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1084</Count>
+          <Count>1086</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1734,7 +1734,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Unnamed'</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'UserControllerTest.testUpdateMeetingTodo'">
@@ -1806,7 +1806,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>262</Count>
+          <Count>265</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1814,7 +1814,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>559</Count>
+          <Count>560</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -1846,7 +1846,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>155</Count>
+          <Count>156</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
