@@ -614,7 +614,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1858</Count>
+          <Count>1862</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1191,6 +1191,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'OrderServiceTest.testCreateOrder'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'OrderServiceTest.testGetUserOrder'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'OrderServiceTest.testGetUserOrder'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Slf4jCheckTest'">
