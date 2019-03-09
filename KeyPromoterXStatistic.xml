@@ -606,7 +606,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1849</Count>
+          <Count>1856</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1175,6 +1175,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'NoSystemOutCheckTest.test'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'OrderServiceTest.testCreateOrder'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'OrderServiceTest.testCreateOrder'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Slf4jCheckTest'">
@@ -1870,7 +1878,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>280</Count>
+          <Count>282</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1878,7 +1886,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>584</Count>
+          <Count>585</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -1910,7 +1918,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>167</Count>
+          <Count>169</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
