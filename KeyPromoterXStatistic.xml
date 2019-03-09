@@ -417,6 +417,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'OrderControllerTest.getOrderHistory'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'OrderControllerTest.getOrderHistory'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'OrderServiceTest.testCreateOrder'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -622,7 +630,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1871</Count>
+          <Count>1878</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -774,7 +782,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1171</Count>
+          <Count>1189</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1199,6 +1207,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'OrderControllerTest.createOrderTest'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'OrderControllerTest.getOrderHistory'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'OrderControllerTest.getOrderHistory'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'OrderServiceTest.testCreateOrder'">
@@ -1729,6 +1745,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'OrderControllerTest.getOrderHistory'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'OrderControllerTest.getOrderHistory'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Sl4jCheckTest.test'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1918,7 +1942,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>588</Count>
+          <Count>590</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
