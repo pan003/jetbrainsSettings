@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>45</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -598,7 +598,23 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'Unnamed'</Description>
-          <Count>38</Count>
+          <Count>39</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'UserControllerTest.testGetUserInfo'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'UserControllerTest.testGetUserInfo'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'UserControllerTest.testGetUserInfoByEmail'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'UserControllerTest.testGetUserInfoByEmail'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'UserControllerTest.testUserPromote'">
@@ -654,7 +670,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1929</Count>
+          <Count>1937</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -814,7 +830,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1227</Count>
+          <Count>1234</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1254,7 +1270,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'OrderControllerTest.createOrderTest'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'OrderControllerTest.getOrderHistory'">
@@ -1447,6 +1463,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'UpperCamelCaseCheckTest.test'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'UserControllerTest.testGetUserInfo'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'UserControllerTest.testGetUserInfo'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'UserControllerTest.testUpdateMeetingTodo'">
@@ -1913,6 +1937,14 @@
           <Count>18</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'UserControllerTest.testGetUserInfo'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'UserControllerTest.testGetUserInfo'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'UserControllerTest.testUpdateMeetingTodo'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1982,7 +2014,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>292</Count>
+          <Count>294</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1990,7 +2022,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>602</Count>
+          <Count>614</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
