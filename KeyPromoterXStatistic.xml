@@ -606,7 +606,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'Unnamed'</Description>
-          <Count>55</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'UserControllerTest.testGetUserInfo'">
@@ -838,7 +838,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1358</Count>
+          <Count>1359</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1942,7 +1942,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Unnamed'</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'UserControllerTest.testGetUserInfo'">
@@ -1998,7 +1998,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>25</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -2014,7 +2014,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>TODO</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -2022,7 +2022,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>309</Count>
+          <Count>311</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
