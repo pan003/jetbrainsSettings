@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>125</Count>
+          <Count>127</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -694,7 +694,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2010</Count>
+          <Count>2017</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -894,7 +894,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'ApplicationTestRunner'</Description>
-          <Count>36</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AvoidAnnotationCheckTest.detected'">
@@ -1110,6 +1110,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'InvoiceControllerTest.testCreateInvoice'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'InvoiceControllerTest.testErrorPhoneNumber'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'InvoiceControllerTest.testErrorPhoneNumber'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -1590,7 +1598,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ApplicationTestRunner'</Description>
-          <Count>386</Count>
+          <Count>389</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BosUtilsTest.initBos'">
