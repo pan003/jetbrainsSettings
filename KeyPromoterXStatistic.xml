@@ -54,7 +54,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -103,6 +103,14 @@
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'AdminInvoiceControllerTest.testDefault'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'AdminInvoiceControllerTest.testQueryWithMonth'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'AdminInvoiceControllerTest.testQueryWithMonth'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AdminOrderControllerTest.testDefault'">
@@ -926,6 +934,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'AdminInvoiceControllerTest.testDefault'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'AdminInvoiceControllerTest.testQueryWithMonth'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'AdminInvoiceControllerTest.testQueryWithMonth'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
