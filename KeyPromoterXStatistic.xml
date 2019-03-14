@@ -97,6 +97,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'AdminInvoiceControllerTest.testDefault'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'AdminInvoiceControllerTest.testDefault'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'AdminOrderControllerTest.testDefault'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -911,6 +919,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'AbstractClassNameCheckTest.test'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'AdminInvoiceControllerTest.testDefault'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'AdminInvoiceControllerTest.testDefault'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AdminOrderControllerTest.testDefault'">
@@ -2102,7 +2118,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>34</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
