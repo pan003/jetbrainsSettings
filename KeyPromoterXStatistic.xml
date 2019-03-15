@@ -313,6 +313,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'LogisticsServiceTest.testGetUserInfo'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'LogisticsServiceTest.testGetUserInfo'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'LongVarPostfixCheckTest.test'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
