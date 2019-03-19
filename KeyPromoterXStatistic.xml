@@ -734,7 +734,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'WalletServiceTest.testRefund'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'WalletServiceTest.testValidQuert'">
@@ -766,7 +766,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2145</Count>
+          <Count>2146</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -926,7 +926,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1699</Count>
+          <Count>1701</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
