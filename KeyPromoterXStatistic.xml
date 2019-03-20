@@ -753,6 +753,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'WalletServiceTest.testXmlPrase'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'WalletServiceTest.testXmlPrase'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'dev'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -766,7 +774,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2158</Count>
+          <Count>2162</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1662,6 +1670,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'WalletServiceTest.testValidQuery'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'WalletServiceTest.testXmlPrase'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'WalletServiceTest.testXmlPrase'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
