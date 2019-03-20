@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>133</Count>
+          <Count>134</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -326,7 +326,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'LogisticsServiceTest.testGetUserInfo'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'LongVarPostfixCheckTest.test'">
@@ -782,7 +782,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2183</Count>
+          <Count>2187</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1006,7 +1006,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'ApplicationTestRunner'</Description>
-          <Count>56</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AvoidAnnotationCheckTest.detected'">
@@ -1249,12 +1249,20 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'LogisticsServiceTest.testCharge'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'LogisticsServiceTest.testCharge'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'LogisticsServiceTest.testGetUserInfo'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'LogisticsServiceTest.testGetUserInfo'</Description>
-          <Count>3</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'LongVarPostfixCheckTest.test'">
@@ -1774,7 +1782,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ApplicationTestRunner'</Description>
-          <Count>411</Count>
+          <Count>413</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BosUtilsTest.initBos'">
