@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'ApplicationTestRunner'</Description>
-          <Count>403</Count>
+          <Count>409</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AvoidBrandInMethodNamesCheckTest.detected'">
@@ -782,7 +782,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2175</Count>
+          <Count>2178</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -942,7 +942,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1714</Count>
+          <Count>1722</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1006,7 +1006,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'ApplicationTestRunner'</Description>
-          <Count>53</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AvoidAnnotationCheckTest.detected'">
@@ -1774,7 +1774,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ApplicationTestRunner'</Description>
-          <Count>406</Count>
+          <Count>407</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BosUtilsTest.initBos'">
@@ -2238,7 +2238,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>61</Count>
+          <Count>67</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -2270,7 +2270,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>780</Count>
+          <Count>781</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -2310,7 +2310,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Vim Emulator">
