@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>152</Count>
+          <Count>154</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -798,7 +798,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2474</Count>
+          <Count>2478</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -958,7 +958,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>2334</Count>
+          <Count>2335</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2326,7 +2326,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>503</Count>
+          <Count>504</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
