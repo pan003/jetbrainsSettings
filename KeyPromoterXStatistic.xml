@@ -1814,7 +1814,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ApplicationTestRunner'</Description>
-          <Count>482</Count>
+          <Count>484</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BosUtilsTest.initBos'">
