@@ -806,7 +806,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2584</Count>
+          <Count>2586</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -959,6 +959,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'UserControllerTest.testUserQuery'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'WalletServiceTest.testTransfer'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'WalletServiceTest.testTransfer'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -1734,7 +1742,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'WalletServiceTest.testTransfer'</Description>
-          <Count>29</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'WalletServiceTest.testValidQuery'">
@@ -2302,7 +2310,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'WalletServiceTest.testTransfer'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'WalletServiceTest.testValidQuery'">
@@ -2358,7 +2366,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>952</Count>
+          <Count>953</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
