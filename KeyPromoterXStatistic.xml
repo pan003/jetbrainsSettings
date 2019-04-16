@@ -1038,7 +1038,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'ApplicationTestRunner'</Description>
-          <Count>95</Count>
+          <Count>97</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AvoidAnnotationCheckTest.detected'">
