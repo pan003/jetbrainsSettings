@@ -993,6 +993,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'UserMongoRepositoryTest.t4save'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'UserMongoRepositoryTest.t4save'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'WalletServiceTest.testTransfer'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
