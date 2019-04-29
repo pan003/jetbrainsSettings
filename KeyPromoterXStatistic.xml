@@ -1769,6 +1769,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'UserMongoRepositoryTest.t4save'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'UserMongoRepositoryTest.t4save'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'WalletServiceTest.testCreateOrderInfo'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
