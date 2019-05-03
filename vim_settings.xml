@@ -6,13 +6,13 @@
       <file name="/mall/coderun/gitrepo/jiayouka/jd-youka-recharge-domain/src/main/java/com/jd/jyk/domain/YKSkuInfo.java" timestamp="1482226657326">
         <mark key="'" line="5" column="0" />
       </file>
+      <file name="/mall/coderun/gitrepo/movie/jd-life-movie/jd-movie-service/src/main/java/com/jd/movie/service/worker/timetask/leaderworker/ReportTicketWorker.java" timestamp="1556889092736" />
       <file name="/mall/coderun/gitrepo/jd-movie/jd-movie-worker/src/main/java/com/jd/movie/timetask/impl/SyncScheduleWorker.java" timestamp="1493966686328">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="/mall/coderun/gitrepo/oilcard-m/oilcard-dao/src/main/java/com/jd/oilcard/m/dao/impl/SinopecCardDaoImpl.java" timestamp="1511779452758">
         <mark key="'" line="18" column="6" />
       </file>
-      <file name="/mall/coderun/gitrepo/oilcard-h5/src/main/resources/templates/index_html5.ftl" timestamp="1520415199692" />
     </filemarks>
     <jumps>
       <jump line="5" column="0" filename="/mall/coderun/gitrepo/jiayouka/jd-youka-recharge-domain/src/main/java/com/jd/jyk/domain/YKSkuInfo.java" />
