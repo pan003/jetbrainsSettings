@@ -857,6 +857,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Exit Full Screen">
+        <Item>
+          <IdeaActionID>ToggleFullScreen</IdeaActionID>
+          <ShortCut>'Ctrl+Cmd+F'</ShortCut>
+          <Description>Exit Full Screen</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Find Usages">
         <Item>
           <IdeaActionID>FindUsages</IdeaActionID>
@@ -2430,7 +2438,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>586</Count>
+          <Count>587</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
