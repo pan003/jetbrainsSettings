@@ -2505,6 +2505,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="go to definition">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Cmd+B'</ShortCut>
+          <Description>go to definition</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
     </option>
   </component>
 </application>
