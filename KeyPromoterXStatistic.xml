@@ -1137,6 +1137,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'BpmServiceImplTest.testInit'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Ctrl+R'</ShortCut>
+          <Description>Run 'BpmServiceImplTest.testInit'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'CalendarUtils'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
