@@ -201,6 +201,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'BpmServiceImplTest.testRejectProcess'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'BpmServiceImplTest.testRejectProcess'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'BpmServiceImplTest.unitTest'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -862,7 +870,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2725</Count>
+          <Count>2732</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1214,6 +1222,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'BpmServiceImplTest.testReject'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'BpmServiceImplTest.testRejectProcess'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'BpmServiceImplTest.testRejectProcess'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -1966,7 +1982,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>51</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AdminInvoiceControllerTest.testQueryWithMonth'">
@@ -2039,6 +2055,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'BpmServiceImplTest.testReject'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'BpmServiceImplTest.testRejectProcess'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'BpmServiceImplTest.testRejectProcess'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BpmServiceImplTest.unitTest'">
@@ -2566,7 +2590,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1037</Count>
+          <Count>1039</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
