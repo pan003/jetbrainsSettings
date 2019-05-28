@@ -185,6 +185,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'BpmServiceImplTest.unitTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'BpmServiceImplTest.unitTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'CalendarUtils'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -838,7 +846,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2718</Count>
+          <Count>2719</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1038,7 +1046,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>2589</Count>
+          <Count>2594</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1174,7 +1182,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'BpmServiceImplTest.unitTest'</Description>
-          <Count>3</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CalendarUtils'">
@@ -1982,7 +1990,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'BpmServiceImplTest.unitTest'</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CycMeetingControllerV2Test (1)'">
@@ -2502,7 +2510,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1030</Count>
+          <Count>1032</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
