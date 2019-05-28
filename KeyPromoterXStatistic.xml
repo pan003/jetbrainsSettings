@@ -838,7 +838,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2712</Count>
+          <Count>2713</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -975,6 +975,14 @@
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
           <Count>31</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'BpmServiceImplTest.testCreateProcess'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'BpmServiceImplTest.testCreateProcess'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CalendarUtils'">
@@ -1150,7 +1158,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'BpmServiceImplTest.testCreateProcess'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BpmServiceImplTest.testInit'">
@@ -1950,6 +1958,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'BosUtilsTest.initBos'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'BpmServiceImplTest.testCreateProcess'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'BpmServiceImplTest.testCreateProcess'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
