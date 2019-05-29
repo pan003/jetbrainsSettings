@@ -1249,6 +1249,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'BpmServiceImplTest.testQueryProcess'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'BpmServiceImplTest.testQueryProcess'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'BpmServiceImplTest.testReject'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
