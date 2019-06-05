@@ -702,7 +702,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'TestServerApplication'</Description>
-          <Count>92</Count>
+          <Count>95</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'TestZip'">
@@ -910,7 +910,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2863</Count>
+          <Count>2865</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -2142,7 +2142,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'BpmServiceImplTest.testCreateProcessAndComplete'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BpmServiceImplTest.testReject'">
@@ -2542,7 +2542,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'TestServerApplication'</Description>
-          <Count>97</Count>
+          <Count>98</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TodoControllerTest.testSaveTodoError'">
@@ -2710,7 +2710,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1117</Count>
+          <Count>1118</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
