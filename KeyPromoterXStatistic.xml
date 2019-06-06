@@ -910,7 +910,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2880</Count>
+          <Count>2881</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1247,6 +1247,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'BpmServiceImplTest.testCreateProcess'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'BpmServiceImplTest.testCreateProcessAndComplete'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'BpmServiceImplTest.testCreateProcessAndComplete'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BpmServiceImplTest.testInit'">
@@ -2118,7 +2126,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ApplicationTestRunner'</Description>
-          <Count>498</Count>
+          <Count>501</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BosUtilsTest.initBos'">
