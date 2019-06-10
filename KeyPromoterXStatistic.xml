@@ -718,7 +718,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'TestServerApplication'</Description>
-          <Count>100</Count>
+          <Count>116</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'TestZip'">
@@ -926,7 +926,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2890</Count>
+          <Count>2904</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1150,7 +1150,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>2783</Count>
+          <Count>2803</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2606,7 +2606,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'TestServerApplication'</Description>
-          <Count>110</Count>
+          <Count>125</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TodoControllerTest.testSaveTodoError'">
@@ -2774,7 +2774,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1123</Count>
+          <Count>1129</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
