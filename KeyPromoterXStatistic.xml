@@ -718,7 +718,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'TestServerApplication'</Description>
-          <Count>166</Count>
+          <Count>169</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'TestZip'">
@@ -926,7 +926,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2931</Count>
+          <Count>2934</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -2766,7 +2766,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>619</Count>
+          <Count>620</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
