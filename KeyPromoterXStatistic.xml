@@ -281,6 +281,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'ContractServiceTest.testGenerateNo'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'ContractServiceTest.testGenerateNo'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'CycMeetingControllerV2Test (1)'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -2281,6 +2289,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ContractServiceTest.testGenerateNo'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ContractServiceTest.testGenerateNo'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'CycMeetingControllerV2Test (1)'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2822,7 +2838,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1176</Count>
+          <Count>1178</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -2886,7 +2902,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Cmd+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>103</Count>
+          <Count>107</Count>
         </Item>
       </Statistic>
     </option>
