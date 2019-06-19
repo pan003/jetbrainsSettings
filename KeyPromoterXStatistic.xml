@@ -369,6 +369,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'DocumentManagerTest.testToPdf'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'DocumentManagerTest.testToPdf'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'ExceptionNameCheckTest.test'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -1542,7 +1550,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'DocumentManagerTest.testToPdf'</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'EmailServiceImplTest.convertToHtml'">
@@ -2942,7 +2950,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Cmd+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>110</Count>
+          <Count>111</Count>
         </Item>
       </Statistic>
     </option>
