@@ -1153,6 +1153,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'DocumentManagerTest.testTextWaterMark'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'DocumentManagerTest.testTextWaterMark'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'UserControllerTest.testUserQuery'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1511,6 +1519,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'CycMeetingControllerV2Test.testUpdateMemberInvalid'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DocumentManagerTest.testTextWaterMark'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'DocumentManagerTest.testTextWaterMark'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'EmailServiceImplTest.convertToHtml'">
@@ -2902,7 +2918,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Cmd+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>107</Count>
+          <Count>108</Count>
         </Item>
       </Statistic>
     </option>
