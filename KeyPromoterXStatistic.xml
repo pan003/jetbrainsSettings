@@ -2705,6 +2705,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'TestDTOConverter.testConvert'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'TestDTOConverter.testConvert'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'TestServerApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2886,7 +2894,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1181</Count>
+          <Count>1182</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -2950,7 +2958,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Cmd+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>175</Count>
+          <Count>176</Count>
         </Item>
       </Statistic>
     </option>
