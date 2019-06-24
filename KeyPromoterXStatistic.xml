@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>186</Count>
+          <Count>199</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -86,7 +86,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>99</Count>
+          <Count>101</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AbstractClassNameCheckTest.test'">
@@ -1214,7 +1214,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>2996</Count>
+          <Count>3056</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2238,7 +2238,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>114</Count>
+          <Count>124</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AdminInvoiceControllerTest.testQueryWithMonth'">
@@ -2734,7 +2734,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'TestServerApplication'</Description>
-          <Count>255</Count>
+          <Count>266</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TodoControllerTest.testSaveTodoError'">
@@ -2910,7 +2910,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1209</Count>
+          <Count>1219</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -2974,7 +2974,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Cmd+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>200</Count>
+          <Count>203</Count>
         </Item>
       </Statistic>
     </option>
