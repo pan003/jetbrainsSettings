@@ -1390,7 +1390,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'BpmServiceImplTest.testCreateProcessAndComplete'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BpmServiceImplTest.testInit'">
@@ -1406,7 +1406,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'BpmServiceImplTest.testProcessPreview'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BpmServiceImplTest.testQuery'">
@@ -1438,7 +1438,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'BpmServiceImplTest.testRejectProcess'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BpmServiceImplTest.testSkipUsers'">
@@ -2361,6 +2361,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'BpmServiceImplTest.testProcessPreview'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'BpmServiceImplTest.testProcessPreview'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'BpmServiceImplTest.testReject'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2950,7 +2958,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>638</Count>
+          <Count>639</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -2958,7 +2966,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1255</Count>
+          <Count>1256</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -3022,7 +3030,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Cmd+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>284</Count>
+          <Count>291</Count>
         </Item>
       </Statistic>
     </option>
