@@ -14,7 +14,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>279</Count>
+          <Count>281</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -3046,7 +3046,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Cmd+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>326</Count>
+          <Count>335</Count>
         </Item>
       </Statistic>
     </option>
