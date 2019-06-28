@@ -1,6 +1,6 @@
 <application>
   <component name="DebuggerSettings">
-    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
+    <option name="WATCH_RETURN_VALUES" value="true" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
@@ -76,18 +76,6 @@
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
     </filter>
-  </component>
-  <component name="NodeRendererSettings">
-    <CustomRenderers VERSION="8">
-      <Renderer ID="CompoundTypeRenderer">
-        <option name="ENABLED" value="true" />
-        <option name="QUALIFIED_NAME" value="java.lang.String" />
-        <Renderer ID="EnumerationChildrenRenderer" role="children">
-          <option name="QUALIFIED_NAME" value="java.lang.String" />
-          <option name="AppendDefault" value="true" />
-        </Renderer>
-      </Renderer>
-    </CustomRenderers>
   </component>
   <component name="XDebuggerSettings">
     <data-views />

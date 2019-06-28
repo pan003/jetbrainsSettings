@@ -1,0 +1,8 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://jsf.jd.com/schema/jsf/jsf.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.3/extResources/ff6ea797_jsf.xsd" />
+    <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/extResources/b36fadae_mybatis-3-mapper.dtd" />
+    <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.3/extResources/cf63db72_mybatis-generator-config_1_0.dtd" />
+    <resource url="http://www.zeroturnaround.com" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/extResources/20b583dc_rebel-2_1.xsd" />
+  </component>
+</application>

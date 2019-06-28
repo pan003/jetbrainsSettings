@@ -2,9 +2,9 @@
   <component name="GrepConsole">
     <option name="donationNagger">
       <DonationNagger>
-        <option name="actionsExecuted" value="1" />
+        <option name="actionsExecuted" value="2" />
         <option name="firstUsage" value="0" />
-        <option name="firstUsedVersion" value="8.5.162.000.1" />
+        <option name="firstUsedVersion" value="9.0.162.000.2" />
       </DonationNagger>
     </option>
     <option name="profiles">
@@ -26,12 +26,6 @@
                             </GrepColor>
                           </option>
                           <option name="bold" value="true" />
-                          <option name="foregroundColor">
-                            <GrepColor>
-                              <option name="color" value="-1493683" />
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
@@ -42,12 +36,6 @@
                           <option name="backgroundColor">
                             <GrepColor>
                               <option name="color" value="-935919616" />
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
-                          <option name="foregroundColor">
-                            <GrepColor>
-                              <option name="color" value="-1501133" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -64,27 +52,12 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="foregroundColor">
-                            <GrepColor>
-                              <option name="color" value="-1462733" />
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*INFO.*" />
-                      <option name="style">
-                        <GrepStyle>
-                          <option name="foregroundColor">
-                            <GrepColor>
-                              <option name="color" value="-2037286" />
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
-                        </GrepStyle>
-                      </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*DEBUG.*" />
@@ -92,7 +65,7 @@
                         <GrepStyle>
                           <option name="foregroundColor">
                             <GrepColor>
-                              <option name="color" value="-9179527" />
+                              <option name="color" value="-8355712" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -117,7 +90,7 @@
               </GrepExpressionGroup>
             </list>
           </option>
-          <option name="id" value="1543203371013" />
+          <option name="id" value="1556261289633" />
           <option name="inputFilterGroups">
             <list>
               <GrepExpressionGroup>

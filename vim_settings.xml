@@ -1,0 +1,72 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="/mall/coderun/gitrepo/jiayouka/jd-youka-recharge-domain/src/main/java/com/jd/jyk/domain/YKSkuInfo.java" timestamp="1482226657326">
+        <mark key="'" line="5" column="0" />
+      </file>
+      <file name="/mall/coderun/gitrepo/movie/jd-life-movie/jd-movie-service/src/main/java/com/jd/movie/service/worker/timetask/leaderworker/ReportTicketWorker.java" timestamp="1556889092736" />
+      <file name="/mall/coderun/gitrepo/jd-movie/jd-movie-worker/src/main/java/com/jd/movie/timetask/impl/SyncScheduleWorker.java" timestamp="1493966686328">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/mall/coderun/gitrepo/oilcard-m/oilcard-dao/src/main/java/com/jd/oilcard/m/dao/impl/SinopecCardDaoImpl.java" timestamp="1511779452758">
+        <mark key="'" line="18" column="6" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="5" column="0" filename="/mall/coderun/gitrepo/jiayouka/jd-youka-recharge-domain/src/main/java/com/jd/jyk/domain/YKSkuInfo.java" />
+      <jump line="211" column="8" filename="/mall/coderun/gitrepo/jd-movie/jd-movie-worker/src/main/java/com/jd/movie/timetask/impl/SyncScheduleWorker.java" />
+      <jump line="228" column="0" filename="/mall/coderun/gitrepo/jd-movie/jd-movie-worker/src/main/java/com/jd/movie/timetask/impl/SyncScheduleWorker.java" />
+      <jump line="0" column="0" filename="/mall/coderun/gitrepo/jd-movie/jd-movie-worker/src/main/java/com/jd/movie/timetask/impl/SyncScheduleWorker.java" />
+      <jump line="18" column="6" filename="/mall/coderun/gitrepo/oilcard-m/oilcard-dao/src/main/java/com/jd/oilcard/m/dao/impl/SinopecCardDaoImpl.java" />
+    </jumps>
+    <registers>
+      <register name="/" type="4">
+        <text>findSi</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>findSi</last-search>
+      <last-offset />
+      <last-pattern>findSi</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>schen</entry>
+        <entry>findSi</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+</application>

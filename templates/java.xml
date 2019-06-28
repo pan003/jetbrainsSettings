@@ -1,9 +1,0 @@
-<templateSet group="java">
-  <template name="logger" value="private static final org.slf4j.Logger LOGGER =  org.slf4j.LoggerFactory.getLogger($ClassName$.class);" description="日志" toReformat="false" toShortenFQNames="true">
-    <variable name="ClassName" expression="className()" defaultValue="" alwaysStopAt="false" />
-    <context>
-      <option name="JAVA_CODE" value="true" />
-      <option name="JAVA_COMMENT" value="false" />
-    </context>
-  </template>
-</templateSet>
