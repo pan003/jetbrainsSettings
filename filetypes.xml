@@ -5,6 +5,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="httl" type="HTML" />
       <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping pattern="砍价数据统计" type="SQL" />
     </extensionMap>
   </component>
 </application>
