@@ -6,6 +6,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="httl" type="HTML" />
       <mapping ext="fin" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping pattern="砍价数据统计" type="SQL" />
       <mapping pattern=".gitignore_global" type="Git file" />
